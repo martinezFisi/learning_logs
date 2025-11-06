@@ -8,6 +8,7 @@ __pycache__/
 venv/
 env/
 .venv/
+ll_env/
 
 # Django
 *.log
@@ -28,6 +29,3 @@ staticfiles/
 .coverage
 htmlcov/
 .pytest_cache/
-db.sqlite3
-learning_logs/__pycache__/urls.cpython-312.pyc
-learning_logs/__pycache__/views.cpython-312.pyc
