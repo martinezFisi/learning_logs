@@ -29,3 +29,5 @@ staticfiles/
 .coverage
 htmlcov/
 .pytest_cache/
+
+dsd_logs/
