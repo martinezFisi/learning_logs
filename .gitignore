@@ -3,7 +3,6 @@
 __pycache__/
 *.py[cod]
 .Python
-ll_project/__pycache__/*.pyc
 
 # Virtual Environment
 venv/
